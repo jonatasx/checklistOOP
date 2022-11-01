@@ -1,0 +1,8 @@
+C:\Users\jonat\Documents\checklistOOP\Competencia2\obj\Debug\Competencia2.csproj.AssemblyReference.cache
+C:\Users\jonat\Documents\checklistOOP\Competencia2\obj\Debug\Competencia2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Documents\checklistOOP\Competencia2\obj\Debug\Competencia2.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\checklistOOP\Competencia2\bin\Debug\Competencia2.exe.config
+C:\Users\jonat\Documents\checklistOOP\Competencia2\bin\Debug\Competencia2.exe
+C:\Users\jonat\Documents\checklistOOP\Competencia2\bin\Debug\Competencia2.pdb
+C:\Users\jonat\Documents\checklistOOP\Competencia2\obj\Debug\Competencia2.exe
+C:\Users\jonat\Documents\checklistOOP\Competencia2\obj\Debug\Competencia2.pdb
